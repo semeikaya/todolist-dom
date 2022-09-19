@@ -1,0 +1,10 @@
+.main {
+    background-color: aliceblue;
+}
+.inputbutton{
+    width: 50%;
+    display: flex;
+    box-sizing: border-box;
+    background-color: white;
+justify-content: space-between;
+}
