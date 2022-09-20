@@ -49,4 +49,11 @@ body {
     text-align: center;
     padding: 10px 15px 10px 30px;
     margin-bottom: 15px;
+    align-items: center;
+}
+.header1{
+    margin: 0px;
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Gilroy';
 }

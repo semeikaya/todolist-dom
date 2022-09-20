@@ -13,7 +13,6 @@ button1.addEventListener("click", () => {
         li.className = "marker";
         li.style.color = "white";
         del.type = "button";
-        del.value = "x";
         del.style.fontSize = "20px";
         del.style.borderRadius = "50%";
         del.style.border = "solid red";
